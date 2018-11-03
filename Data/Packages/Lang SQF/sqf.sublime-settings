@@ -1,0 +1,15 @@
+{
+	"extensions": ["sqs", "sqf", "tm4", "cwr2", "cwr", "FSM", "BIFSM", "bio2s"],
+	"tab_size": 4,
+	"auto_indent": true,
+	"smart_indent": true,
+	"indent_to_bracket": true,
+	"args":
+	{
+		"setting": "color_scheme",
+		"value": "Packages/Poseidon/bis default.tmTheme"
+	},
+	"word_wrap": true,
+	"auto_save": true,
+	"scroll_speed": 3
+}
